@@ -4,7 +4,7 @@ Implements example swagger snippets :
 https://codesandbox.io/s/yjjgj?file=/public/index.html
 
 
-
+// test
 getSnippetGenerators: (ori, system) => (state, ...args) => {
           let test = ori(state, ...args);
           for (let i = 0; i < 3; i++) {
